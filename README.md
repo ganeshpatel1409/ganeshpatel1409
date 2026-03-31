@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ganesh%20Patel&fontSize=50&fontColor=black&fontAlignY=38&desc=LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&descColor=0d1117&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ganesh%20Patel&fontSize=50&fontColor=black&fontAlignY=38&descAlignY=58&descSize=16&descColor=0d1117&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=9E5FED&center=true&vCenter=true&width=700&lines=Building%20Intelligent%20Systems;LLMs%20%7C%20Agentic%20AI;Python%20%7C%20C%2B%2B%20%7C%20DSA;Always%20Learning;Enthusiastic%20learner" />
