@@ -131,10 +131,10 @@ Move with the flow
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   "It always seems impossible until its build."          ║
-║                                      — Arlan hamilton    ║
-╚══════════════════════════════════════════════════════════╝
+
+   "It always seems impossible until its build."          
+                                      — Arlan hamilton    
+
 ```
 
 📬 Reach me at **mayadeviverma7071977@gmail.com** · Open to internships & collabs 
