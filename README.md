@@ -1,26 +1,12 @@
 
 
-<!--
-**ganeshpatel1409/ganeshpatel1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ganesh%20Patel&fontSize=50&fontColor=black&fontAlignY=38&desc=LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&descColor=0d1117&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=9E5FED&center=true&vCenter=true&width=700&lines=Building%20Intelligent%20Systems;LLMs%20%7C%20Agentic%20AI;FastAPI%20%7C%20Python%20%7C%20C%20%7C%20DSA;Always%20Learning;Enthusiastic%20learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=9E5FED&center=true&vCenter=true&width=700&lines=Building%20Intelligent%20Systems;LLMs%20%7C%20Agentic%20AI;Python%20%7C%20C%20%7C%20DSA;Always%20Learning;Enthusiastic%20learner" />
 </a>
 <br>
 <br>
