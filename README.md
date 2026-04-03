@@ -51,7 +51,7 @@ Move with the flow
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9E5FED)](https://www.linkedin.com/in/ganesh-patel-1772343ba/)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-0d1117?style=for-the-badge&logo=x&logoColor=9E5FED)](https://x.com/GaneshPate58146)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=9E5FED)](https://www.instagram.com/ganesh_patel_8805/)
-[![Resume](https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge&logoColor=9E5FED)](https://drive.google.com/file/d/1DLZT2SDTxRWOwMaT0oXdqLzgE-BdJrJk/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge&logoColor=9E5FED)](https://drive.google.com/file/d/1qL8woP7uGEOgZ7cScyBT-7TJUBf95eTa/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=9E5FED)](mailto:mayadeviverma7071977@gmail.com)
 
 </div>
